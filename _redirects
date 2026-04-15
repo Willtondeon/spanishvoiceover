@@ -1,0 +1,20 @@
+# Redirect map — old WordPress URLs to new structure
+/locucion-en-espanol/   /es/locutor/   301
+/spanish-voice-over/    /en/voice-actor/   301
+/voix-off-espagnol/     /fr/comédien-vocal/   301
+/spanischer-sprecher/   /de/sprecher/   301
+/doppiatore-spagnolo/   /it/doppiatore/   301
+/locutor-espanhol/      /pt/locutor/   301
+/estudio/               /es/locutor/estudio/   301
+/spots/                 /es/locutor/spots/   301
+/documentales/          /es/locutor/documentales/   301
+/radio/                 /es/locutor/radio/   301
+/corporativo/           /es/locutor/corporativo/   301
+/audiolibros/           /es/locutor/audiolibros/   301
+/compositor/            /es/compositor/   301
+/contacto/              /es/contacto/   301
+/en/                    /en/   301
+/fr/                    /fr/   301
+/de/                    /de/   301
+/it/                    /it/   301
+/pt/                    /pt/   301
