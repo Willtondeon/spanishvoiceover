@@ -3300,6 +3300,10 @@ a, button, [role='button'], [role='link'], input, textarea, select {
     margin-bottom: var(--space-4);
   }
   
+  .site-header {
+    z-index: 300;
+  }
+
   .mobile-overlay {
     position: fixed;
     inset: 0;
