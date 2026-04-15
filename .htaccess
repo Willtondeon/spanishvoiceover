@@ -1,0 +1,131 @@
+# ─── SpanishVoiceOver.net — Apache Redirects & Configuration ────────────
+# Static site hosted on IONOS — replaces WordPress
+
+# Enable Rewrite Engine
+RewriteEngine On
+
+# ─── Force HTTPS ─────────────────────────────────────────────────────────
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# ─── Remove www ──────────────────────────────────────────────────────────
+RewriteCond %{HTTP_HOST} ^www\.spanishvoiceover\.net [NC]
+RewriteRule ^(.*)$ https://spanishvoiceover.net/$1 [L,R=301]
+
+# ─── Old WordPress URLs → New static structure (301 Permanent) ──────────
+
+# Main language landing pages (old WordPress slugs)
+Redirect 301 /locucion-en-espanol/      /es/locutor/
+Redirect 301 /locucion-en-espanol       /es/locutor/
+Redirect 301 /spanish-voice-over/       /en/voice-actor/
+Redirect 301 /spanish-voice-over        /en/voice-actor/
+Redirect 301 /voix-off-espagnol/        /fr/comedien-vocal/
+Redirect 301 /voix-off-espagnol         /fr/comedien-vocal/
+Redirect 301 /spanischer-sprecher/      /de/sprecher/
+Redirect 301 /spanischer-sprecher       /de/sprecher/
+Redirect 301 /doppiatore-spagnolo/      /it/doppiatore/
+Redirect 301 /doppiatore-spagnolo       /it/doppiatore/
+Redirect 301 /locutor-espanhol/         /pt/locutor/
+Redirect 301 /locutor-espanhol          /pt/locutor/
+
+# Old service pages (Spanish — root-level WordPress URLs)
+Redirect 301 /estudio/                  /es/locutor/estudio/
+Redirect 301 /estudio                   /es/locutor/estudio/
+Redirect 301 /spots/                    /es/locutor/spots/
+Redirect 301 /spots                     /es/locutor/spots/
+Redirect 301 /documentales/             /es/locutor/documentales/
+Redirect 301 /documentales              /es/locutor/documentales/
+Redirect 301 /radio/                    /es/locutor/radio/
+Redirect 301 /radio                     /es/locutor/radio/
+Redirect 301 /corporativo/              /es/locutor/corporativo/
+Redirect 301 /corporativo               /es/locutor/corporativo/
+Redirect 301 /audiolibros/              /es/locutor/audiolibros/
+Redirect 301 /audiolibros               /es/locutor/audiolibros/
+Redirect 301 /compositor/               /es/compositor/
+Redirect 301 /compositor                /es/compositor/
+Redirect 301 /contacto/                 /es/contacto/
+Redirect 301 /contacto                  /es/contacto/
+
+# Old WordPress sub-pages under language slugs
+Redirect 301 /locucion-en-espanol/estudio/          /es/locutor/estudio/
+Redirect 301 /locucion-en-espanol/spots/            /es/locutor/spots/
+Redirect 301 /locucion-en-espanol/documentales/     /es/locutor/documentales/
+Redirect 301 /locucion-en-espanol/radio/            /es/locutor/radio/
+Redirect 301 /locucion-en-espanol/corporativo/      /es/locutor/corporativo/
+Redirect 301 /locucion-en-espanol/audiolibros/      /es/locutor/audiolibros/
+
+Redirect 301 /spanish-voice-over/studio/            /en/voice-actor/studio/
+Redirect 301 /spanish-voice-over/tv-commercials/    /en/voice-actor/tv-commercials/
+Redirect 301 /spanish-voice-over/documentaries/     /en/voice-actor/documentaries/
+Redirect 301 /spanish-voice-over/radio-spots/       /en/voice-actor/radio-spots/
+Redirect 301 /spanish-voice-over/corporate/         /en/voice-actor/corporate/
+Redirect 301 /spanish-voice-over/audiobooks/        /en/voice-actor/audiobooks/
+
+Redirect 301 /voix-off-espagnol/studio/             /fr/comedien-vocal/studio/
+Redirect 301 /voix-off-espagnol/spots-publicitaires/ /fr/comedien-vocal/spots-publicitaires/
+Redirect 301 /voix-off-espagnol/documentaires/      /fr/comedien-vocal/documentaires/
+Redirect 301 /voix-off-espagnol/radio/              /fr/comedien-vocal/radio/
+Redirect 301 /voix-off-espagnol/corporate/          /fr/comedien-vocal/corporate/
+Redirect 301 /voix-off-espagnol/livres-audio/       /fr/comedien-vocal/livres-audio/
+
+Redirect 301 /spanischer-sprecher/studio/           /de/sprecher/studio/
+Redirect 301 /spanischer-sprecher/werbespots/       /de/sprecher/werbespots/
+Redirect 301 /spanischer-sprecher/dokumentarfilme/  /de/sprecher/dokumentarfilme/
+Redirect 301 /spanischer-sprecher/radio/            /de/sprecher/radio/
+Redirect 301 /spanischer-sprecher/unternehmen/      /de/sprecher/unternehmen/
+Redirect 301 /spanischer-sprecher/hoerbuecher/      /de/sprecher/hoerbuecher/
+
+Redirect 301 /doppiatore-spagnolo/studio/           /it/doppiatore/studio/
+Redirect 301 /doppiatore-spagnolo/spot/             /it/doppiatore/spot/
+Redirect 301 /doppiatore-spagnolo/documentari/      /it/doppiatore/documentari/
+Redirect 301 /doppiatore-spagnolo/radio/            /it/doppiatore/radio/
+Redirect 301 /doppiatore-spagnolo/aziendale/        /it/doppiatore/aziendale/
+Redirect 301 /doppiatore-spagnolo/audiolibri/       /it/doppiatore/audiolibri/
+
+Redirect 301 /locutor-espanhol/estudio/             /pt/locutor/estudio/
+Redirect 301 /locutor-espanhol/anuncios/            /pt/locutor/anuncios/
+Redirect 301 /locutor-espanhol/documentarios/       /pt/locutor/documentarios/
+Redirect 301 /locutor-espanhol/radio/               /pt/locutor/radio/
+Redirect 301 /locutor-espanhol/corporativo/         /pt/locutor/corporativo/
+Redirect 301 /locutor-espanhol/audiolivros/         /pt/locutor/audiolivros/
+
+# Old WordPress system URLs → homepage
+Redirect 301 /wp-admin                  /
+Redirect 301 /wp-login.php              /
+Redirect 301 /wp-content/               /
+Redirect 301 /feed/                     /
+Redirect 301 /xmlrpc.php                /
+Redirect 301 /wp-json/                  /
+
+# Old WordPress sitemaps → new sitemap
+Redirect 301 /sitemap_index.xml         /sitemap.xml
+Redirect 301 /page-sitemap.xml          /sitemap.xml
+Redirect 301 /wp-sitemap.xml            /sitemap.xml
+
+# ─── Custom 404 (optional — will show default if no 404.html exists) ────
+ErrorDocument 404 /404.html
+
+# ─── Caching for static assets ──────────────────────────────────────────
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresByType text/css "access plus 1 month"
+    ExpiresByType application/javascript "access plus 1 month"
+    ExpiresByType image/png "access plus 1 year"
+    ExpiresByType image/jpeg "access plus 1 year"
+    ExpiresByType image/svg+xml "access plus 1 year"
+    ExpiresByType image/webp "access plus 1 year"
+    ExpiresByType font/woff2 "access plus 1 year"
+    ExpiresByType text/html "access plus 1 hour"
+</IfModule>
+
+# ─── Compression ─────────────────────────────────────────────────────────
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/html text/css application/javascript application/json image/svg+xml
+</IfModule>
+
+# ─── Security Headers ───────────────────────────────────────────────────
+<IfModule mod_headers.c>
+    Header set X-Content-Type-Options "nosniff"
+    Header set X-Frame-Options "SAMEORIGIN"
+    Header set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>

@@ -1,4 +1,9 @@
-generate_site.py
 __pycache__/
 *.pyc
 .DS_Store
+add_content.py
+apply_major_changes.py
+patch_generator.py
+skills/
+old_site/
+*.md
