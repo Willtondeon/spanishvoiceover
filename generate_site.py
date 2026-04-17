@@ -40,6 +40,7 @@ SLUGS = {
         "corporate": "corporativo",
         "audiobooks": "audiolibros",
         "studio": "estudio",
+        "trivago": "trivago",
         "composer": "compositor",
         "contact": "contacto",
     },
@@ -51,6 +52,7 @@ SLUGS = {
         "corporate": "corporate",
         "audiobooks": "audiobooks",
         "studio": "studio",
+        "trivago": "trivago",
         "composer": "composer",
         "contact": "contact",
     },
@@ -62,6 +64,7 @@ SLUGS = {
         "corporate": "voix-corporate",
         "audiobooks": "livres-audio",
         "studio": "studio",
+        "trivago": "trivago",
         "composer": "compositeur",
         "contact": "contact",
     },
@@ -73,6 +76,7 @@ SLUGS = {
         "corporate": "unternehmen",
         "audiobooks": "hoerbuecher",
         "studio": "studio",
+        "trivago": "trivago",
         "composer": "komponist",
         "contact": "kontakt",
     },
@@ -84,6 +88,7 @@ SLUGS = {
         "corporate": "video-aziendali",
         "audiobooks": "audiolibri",
         "studio": "studio",
+        "trivago": "trivago",
         "composer": "compositore",
         "contact": "contatto",
     },
@@ -95,6 +100,7 @@ SLUGS = {
         "corporate": "video-corporativo",
         "audiobooks": "audiolivros",
         "studio": "estudio",
+        "trivago": "trivago",
         "composer": "compositor",
         "contact": "contacto",
     },
@@ -106,6 +112,7 @@ SLUGS = {
         "corporate": "foretagsfilm",
         "audiobooks": "ljudbocker",
         "studio": "studio",
+        "trivago": "trivago",
         "composer": "kompositoer",
         "contact": "kontakt",
     },
@@ -117,6 +124,7 @@ SLUGS = {
         "corporate": "bedriftsfilm",
         "audiobooks": "lydboker",
         "studio": "studio",
+        "trivago": "trivago",
         "composer": "komponist",
         "contact": "kontakt",
     },
@@ -128,6 +136,7 @@ SLUGS = {
         "corporate": "virksomhedsfilm",
         "audiobooks": "lydboger",
         "studio": "studie",
+        "trivago": "trivago",
         "composer": "komponist",
         "contact": "kontakt",
     },
@@ -139,6 +148,7 @@ SLUGS = {
         "corporate": "bedrijfsvideo",
         "audiobooks": "luisterboeken",
         "studio": "studio",
+        "trivago": "trivago",
         "composer": "componist",
         "contact": "contact",
     },
@@ -150,6 +160,7 @@ SLUGS = {
         "corporate": "etairiko-video",
         "audiobooks": "akoustika-vivlia",
         "studio": "stountio",
+        "trivago": "trivago",
         "composer": "synthetes",
         "contact": "epikoinonia",
     },
@@ -161,6 +172,7 @@ SLUGS = {
         "corporate": "qiye",
         "audiobooks": "youshengshu",
         "studio": "luyin",
+        "trivago": "trivago",
         "composer": "zuoqu",
         "contact": "lianxi",
     },
@@ -172,6 +184,7 @@ SLUGS = {
         "corporate": "korporativnoe",
         "audiobooks": "audioknigi",
         "studio": "studiya",
+        "trivago": "trivago",
         "composer": "kompozitor",
         "contact": "kontakt",
     },
@@ -183,6 +196,208 @@ VIMEO = {
     "spots": ["810218134", "690302511", "690284458", "690295928", "689499089", "689499667", "601300814", "601301660", "690293690"],
     "documentaries": ["690250937", "690260159", "690276233", "690269159", "690251119", "690258991", "690273903", "690255996", "690277651", "690267452", "690254336", "690271782", "1183454881"],
     "corporate": ["690280127", "689499565"],
+}
+
+
+# ─── Trivago Page Content ────────────────────────────────────────────────────
+
+TRIVAGO_YOUTUBE = ["9NJes_OMxqg", "GPKPjA0_97I", "_diBjgG5Xqo"]
+
+TRIVAGO_CONTENT = {
+    "es": {
+        "title": "Voz Española de Trivago — Guillermo A. Brazález",
+        "meta_title": "Voz Española de Trivago | Guillermo A. Brazález — Locutor Spots Trivago",
+        "meta_desc": "Guillermo A. Brazález es la voz en español de los spots de Trivago en España. Locutor profesional de las campañas más recientes de Trivago con Jürgen Klopp.",
+        "h1": "La Voz Española de Trivago",
+        "intro": """<p><strong>Guillermo A. Brazález</strong> es la voz en español de los spots publicitarios de <strong>Trivago</strong> en España. Como locutor profesional con más de 20 años de experiencia, Guillermo ha sido elegido por Trivago para dar voz en castellano a sus campañas publicitarias más recientes, incluyendo los anuncios protagonizados por <strong>Jürgen Klopp</strong>.</p>
+            <p>Su voz castellana es la que acompaña a millones de espectadores españoles cada vez que ven un anuncio de Trivago en televisión. Desde spots de 20 segundos hasta campañas completas, la voz de Guillermo transmite la confianza, cercanía y profesionalidad que define a la marca Trivago en el mercado español.</p>
+            <p>La colaboración entre Guillermo A. Brazález y Trivago representa una de las asociaciones más reconocidas entre un locutor español y una marca global de viajes. Su voz en castellano se ha convertido en un elemento identificativo de Trivago en España, reconocible al instante por el público español.</p>""",
+        "section_videos": "Spots de Trivago en Español",
+        "section_about": "Sobre la Colaboración con Trivago",
+        "about_text": """<p>Trivago, el comparador de hoteles líder en el mundo, confía en la voz de Guillermo A. Brazález para comunicar su mensaje al público español. Las campañas recientes, protagonizadas por el exentrenador del Liverpool FC <strong>Jürgen Klopp</strong>, llevan la locución en castellano de Guillermo, quien aporta calidez y credibilidad a cada spot.</p>
+            <p>La elección de un locutor profesional español nativo para las campañas de Trivago en España garantiza una conexión auténtica con la audiencia hispanohablante, transmitiendo el mensaje de la marca con la entonación y el acento natural del español castellano.</p>""",
+        "cta_text": "¿Buscas una voz profesional para tu marca?",
+        "faq": [
+            {"q": "¿Quién es la voz española de Trivago?", "a": "Guillermo A. Brazález es el locutor profesional español que presta su voz en castellano a los spots publicitarios de Trivago en España, incluyendo las campañas más recientes con Jürgen Klopp."},
+            {"q": "¿Desde cuándo es Guillermo la voz de Trivago en España?", "a": "Guillermo A. Brazález ha sido la voz en español de las campañas más recientes de Trivago en España, dando voz en castellano a los anuncios protagonizados por Jürgen Klopp."},
+            {"q": "¿Cómo contratar al locutor de Trivago España?", "a": "Puedes contactar con Guillermo A. Brazález directamente a través de WhatsApp (+34 606 350 350), email (info@guillermobrazalez.es) o mediante la página de contacto de esta web."},
+        ],
+    },
+    "en": {
+        "title": "Spanish Voice of Trivago — Guillermo A. Brazález",
+        "meta_title": "Spanish Voice of Trivago | Guillermo A. Brazález — Trivago Spain Voice-Over",
+        "meta_desc": "Guillermo A. Brazález is the Spanish voice of Trivago commercials in Spain. Professional voice-over artist behind Trivago's latest ad campaigns with Jürgen Klopp.",
+        "h1": "The Spanish Voice of Trivago",
+        "intro": """<p><strong>Guillermo A. Brazález</strong> is the Spanish voice behind <strong>Trivago's</strong> television commercials in Spain. A professional voice-over artist with over 20 years of experience, Guillermo was chosen by Trivago to voice their most recent Spanish advertising campaigns, including the spots featuring <strong>Jürgen Klopp</strong>.</p>
+            <p>His Castilian Spanish voice accompanies millions of Spanish viewers every time they see a Trivago commercial on television. From 20-second spots to full campaigns, Guillermo's voice conveys the trust, warmth, and professionalism that defines the Trivago brand in the Spanish market.</p>
+            <p>The collaboration between Guillermo A. Brazález and Trivago represents one of the most recognized partnerships between a Spanish voice actor and a global travel brand. His Castilian Spanish voice has become an identifying element of Trivago in Spain, instantly recognizable by Spanish audiences.</p>""",
+        "section_videos": "Trivago Spots in Spanish",
+        "section_about": "About the Trivago Collaboration",
+        "about_text": """<p>Trivago, the world's leading hotel comparison platform, trusts Guillermo A. Brazález's voice to deliver its message to the Spanish audience. The recent campaigns, starring former Liverpool FC manager <strong>Jürgen Klopp</strong>, feature Guillermo's Castilian Spanish voice-over, bringing warmth and credibility to every spot.</p>
+            <p>Choosing a native professional Spanish voice actor for Trivago's campaigns in Spain ensures an authentic connection with the Spanish-speaking audience, delivering the brand's message with the natural intonation and accent of Castilian Spanish.</p>""",
+        "cta_text": "Looking for a professional voice for your brand?",
+        "faq": [
+            {"q": "Who is the Spanish voice of Trivago?", "a": "Guillermo A. Brazález is the professional Spanish voice-over artist who voices Trivago's TV commercials in Spain, including the most recent campaigns featuring Jürgen Klopp."},
+            {"q": "How to hire the Trivago Spain voice actor?", "a": "You can contact Guillermo A. Brazález directly via WhatsApp (+34 606 350 350), email (info@guillermobrazalez.es), or through the contact page on this website."},
+            {"q": "What campaigns has Guillermo voiced for Trivago?", "a": "Guillermo A. Brazález has voiced Trivago's most recent television advertising campaigns in Spain, including the spots featuring football manager Jürgen Klopp as brand ambassador."},
+        ],
+    },
+    "fr": {
+        "title": "Voix Espagnole de Trivago — Guillermo A. Brazález",
+        "meta_title": "Voix Espagnole de Trivago | Guillermo A. Brazález — Doubleur Spots Trivago",
+        "meta_desc": "Guillermo A. Brazález est la voix espagnole des publicités Trivago en Espagne. Comédien vocal des dernières campagnes Trivago avec Jürgen Klopp.",
+        "h1": "La Voix Espagnole de Trivago",
+        "intro": """<p><strong>Guillermo A. Brazález</strong> est la voix espagnole des spots publicitaires de <strong>Trivago</strong> en Espagne. Comédien vocal professionnel avec plus de 20 ans d'expérience, Guillermo a été choisi par Trivago pour donner sa voix en castillan à leurs campagnes publicitaires les plus récentes, y compris les spots avec <strong>Jürgen Klopp</strong>.</p>
+            <p>Sa voix en espagnol castillan accompagne des millions de téléspectateurs espagnols chaque fois qu'ils voient une publicité Trivago à la télévision. Sa voix transmet la confiance et le professionnalisme qui définissent la marque Trivago sur le marché espagnol.</p>""",
+        "section_videos": "Spots Trivago en Espagnol",
+        "section_about": "À Propos de la Collaboration avec Trivago",
+        "about_text": """<p>Trivago, le premier comparateur d'hôtels au monde, fait confiance à la voix de Guillermo A. Brazález pour communiquer son message au public espagnol. Les campagnes récentes, avec l'ancien entraîneur du Liverpool FC <strong>Jürgen Klopp</strong>, portent la voix en castillan de Guillermo.</p>""",
+        "cta_text": "Vous cherchez une voix professionnelle pour votre marque ?",
+        "faq": [
+            {"q": "Qui est la voix espagnole de Trivago ?", "a": "Guillermo A. Brazález est le comédien vocal professionnel qui prête sa voix espagnole aux spots publicitaires de Trivago en Espagne."},
+        ],
+    },
+    "de": {
+        "title": "Spanische Stimme von Trivago — Guillermo A. Brazález",
+        "meta_title": "Spanische Stimme von Trivago | Guillermo A. Brazález — Trivago Spanien Sprecher",
+        "meta_desc": "Guillermo A. Brazález ist die spanische Stimme der Trivago-Werbespots in Spanien. Professioneller Sprecher der neuesten Trivago-Kampagnen mit Jürgen Klopp.",
+        "h1": "Die Spanische Stimme von Trivago",
+        "intro": """<p><strong>Guillermo A. Brazález</strong> ist die spanische Stimme der <strong>Trivago</strong>-Werbespots in Spanien. Als professioneller Sprecher mit über 20 Jahren Erfahrung wurde Guillermo von Trivago ausgewählt, um den neuesten Werbekampagnen seine kastilisch-spanische Stimme zu verleihen, einschließlich der Spots mit <strong>Jürgen Klopp</strong>.</p>
+            <p>Seine kastilisch-spanische Stimme begleitet Millionen spanischer Zuschauer bei jedem Trivago-Werbespot im Fernsehen und vermittelt das Vertrauen und die Professionalität der Marke Trivago auf dem spanischen Markt.</p>""",
+        "section_videos": "Trivago-Spots auf Spanisch",
+        "section_about": "Über die Zusammenarbeit mit Trivago",
+        "about_text": """<p>Trivago, der weltweit führende Hotel-Preisvergleich, vertraut auf die Stimme von Guillermo A. Brazález. Die aktuellen Kampagnen mit dem ehemaligen Liverpool-FC-Trainer <strong>Jürgen Klopp</strong> tragen Guillermos kastilisch-spanische Synchronstimme.</p>""",
+        "cta_text": "Suchen Sie eine professionelle Stimme für Ihre Marke?",
+        "faq": [
+            {"q": "Wer ist die spanische Stimme von Trivago?", "a": "Guillermo A. Brazález ist der professionelle spanische Sprecher, der die Trivago-Werbespots in Spanien spricht, einschließlich der neuesten Kampagnen mit Jürgen Klopp."},
+        ],
+    },
+    "it": {
+        "title": "Voce Spagnola di Trivago — Guillermo A. Brazález",
+        "meta_title": "Voce Spagnola di Trivago | Guillermo A. Brazález — Doppiatore Spot Trivago",
+        "meta_desc": "Guillermo A. Brazález è la voce spagnola degli spot Trivago in Spagna. Doppiatore delle ultime campagne Trivago con Jürgen Klopp.",
+        "h1": "La Voce Spagnola di Trivago",
+        "intro": """<p><strong>Guillermo A. Brazález</strong> è la voce spagnola degli spot pubblicitari di <strong>Trivago</strong> in Spagna. Doppiatore professionista con oltre 20 anni di esperienza, è stato scelto da Trivago per dare voce in castigliano alle campagne più recenti con <strong>Jürgen Klopp</strong>.</p>""",
+        "section_videos": "Spot Trivago in Spagnolo",
+        "section_about": "Sulla Collaborazione con Trivago",
+        "about_text": """<p>Trivago, il principale comparatore di hotel al mondo, si affida alla voce di Guillermo A. Brazález per comunicare al pubblico spagnolo.</p>""",
+        "cta_text": "Cerchi una voce professionale per il tuo brand?",
+        "faq": [
+            {"q": "Chi è la voce spagnola di Trivago?", "a": "Guillermo A. Brazález è il doppiatore professionista che presta la sua voce spagnola agli spot pubblicitari di Trivago in Spagna."},
+        ],
+    },
+    "pt": {
+        "title": "Voz Espanhola da Trivago — Guillermo A. Brazález",
+        "meta_title": "Voz Espanhola da Trivago | Guillermo A. Brazález — Locutor Anúncios Trivago",
+        "meta_desc": "Guillermo A. Brazález é a voz espanhola dos anúncios da Trivago em Espanha. Locutor das últimas campanhas Trivago com Jürgen Klopp.",
+        "h1": "A Voz Espanhola da Trivago",
+        "intro": """<p><strong>Guillermo A. Brazález</strong> é a voz espanhola dos anúncios publicitários da <strong>Trivago</strong> em Espanha. Locutor profissional com mais de 20 anos de experiência, foi escolhido pela Trivago para dar voz em castelhano às campanhas mais recentes com <strong>Jürgen Klopp</strong>.</p>""",
+        "section_videos": "Spots Trivago em Espanhol",
+        "section_about": "Sobre a Colaboração com a Trivago",
+        "about_text": """<p>A Trivago confia na voz de Guillermo A. Brazález para comunicar a sua mensagem ao público espanhol.</p>""",
+        "cta_text": "Procura uma voz profissional para a sua marca?",
+        "faq": [
+            {"q": "Quem é a voz espanhola da Trivago?", "a": "Guillermo A. Brazález é o locutor profissional que dá voz em espanhol aos anúncios da Trivago em Espanha."},
+        ],
+    },
+    "sv": {
+        "title": "Spanska Rösten i Trivago — Guillermo A. Brazález",
+        "meta_title": "Spanska Rösten i Trivago | Guillermo A. Brazález",
+        "meta_desc": "Guillermo A. Brazález är den spanska rösten i Trivagos reklamfilmer i Spanien.",
+        "h1": "Den Spanska Rösten i Trivago",
+        "intro": """<p><strong>Guillermo A. Brazález</strong> är den spanska rösten bakom <strong>Trivagos</strong> reklamfilmer i Spanien, inklusive de senaste kampanjerna med <strong>Jürgen Klopp</strong>.</p>""",
+        "section_videos": "Trivago-reklam på Spanska",
+        "section_about": "Om Samarbetet med Trivago",
+        "about_text": """<p>Trivago förlitar sig på Guillermo A. Brazález röst för att kommunicera sitt budskap till den spanska publiken.</p>""",
+        "cta_text": "Söker du en professionell röst för ditt varumärke?",
+        "faq": [
+            {"q": "Vem är den spanska rösten i Trivago?", "a": "Guillermo A. Brazález är den professionella spanska röstskådespelaren bakom Trivagos TV-reklam i Spanien."},
+        ],
+    },
+    "no": {
+        "title": "Spansk Stemme i Trivago — Guillermo A. Brazález",
+        "meta_title": "Spansk Stemme i Trivago | Guillermo A. Brazález",
+        "meta_desc": "Guillermo A. Brazález er den spanske stemmen i Trivagos reklamefilmer i Spania.",
+        "h1": "Den Spanske Stemmen i Trivago",
+        "intro": """<p><strong>Guillermo A. Brazález</strong> er den spanske stemmen bak <strong>Trivagos</strong> reklamefilmer i Spania, inkludert de nyeste kampanjene med <strong>Jürgen Klopp</strong>.</p>""",
+        "section_videos": "Trivago-reklame på Spansk",
+        "section_about": "Om Samarbeidet med Trivago",
+        "about_text": """<p>Trivago stoler på Guillermo A. Brazález stemme for å kommunisere sitt budskap til det spanske publikummet.</p>""",
+        "cta_text": "Leter du etter en profesjonell stemme for ditt merke?",
+        "faq": [
+            {"q": "Hvem er den spanske stemmen i Trivago?", "a": "Guillermo A. Brazález er den profesjonelle spanske stemmeskuespilleren bak Trivagos TV-reklame i Spania."},
+        ],
+    },
+    "da": {
+        "title": "Spansk Stemme i Trivago — Guillermo A. Brazález",
+        "meta_title": "Spansk Stemme i Trivago | Guillermo A. Brazález",
+        "meta_desc": "Guillermo A. Brazález er den spanske stemme i Trivagos reklamefilm i Spanien.",
+        "h1": "Den Spanske Stemme i Trivago",
+        "intro": """<p><strong>Guillermo A. Brazález</strong> er den spanske stemme bag <strong>Trivagos</strong> reklamefilm i Spanien, inklusive de seneste kampagner med <strong>Jürgen Klopp</strong>.</p>""",
+        "section_videos": "Trivago-reklame på Spansk",
+        "section_about": "Om Samarbejdet med Trivago",
+        "about_text": """<p>Trivago stoler på Guillermo A. Brazález stemme til at kommunikere sit budskab til det spanske publikum.</p>""",
+        "cta_text": "Leder du efter en professionel stemme til dit brand?",
+        "faq": [
+            {"q": "Hvem er den spanske stemme i Trivago?", "a": "Guillermo A. Brazález er den professionelle spanske stemmeskuespiller bag Trivagos TV-reklame i Spanien."},
+        ],
+    },
+    "nl": {
+        "title": "Spaanse Stem van Trivago — Guillermo A. Brazález",
+        "meta_title": "Spaanse Stem van Trivago | Guillermo A. Brazález",
+        "meta_desc": "Guillermo A. Brazález is de Spaanse stem van de Trivago-reclames in Spanje.",
+        "h1": "De Spaanse Stem van Trivago",
+        "intro": """<p><strong>Guillermo A. Brazález</strong> is de Spaanse stem achter de <strong>Trivago</strong>-reclames in Spanje, inclusief de nieuwste campagnes met <strong>Jürgen Klopp</strong>.</p>""",
+        "section_videos": "Trivago-reclames in het Spaans",
+        "section_about": "Over de Samenwerking met Trivago",
+        "about_text": """<p>Trivago vertrouwt op de stem van Guillermo A. Brazález om zijn boodschap over te brengen aan het Spaanse publiek.</p>""",
+        "cta_text": "Op zoek naar een professionele stem voor uw merk?",
+        "faq": [
+            {"q": "Wie is de Spaanse stem van Trivago?", "a": "Guillermo A. Brazález is de professionele Spaanse stemacteur achter de Trivago-reclames in Spanje."},
+        ],
+    },
+    "el": {
+        "title": "Ισπανική Φωνή της Trivago — Guillermo A. Brazález",
+        "meta_title": "Ισπανική Φωνή της Trivago | Guillermo A. Brazález",
+        "meta_desc": "Ο Guillermo A. Brazález είναι η ισπανική φωνή των διαφημίσεων της Trivago στην Ισπανία.",
+        "h1": "Η Ισπανική Φωνή της Trivago",
+        "intro": """<p>Ο <strong>Guillermo A. Brazález</strong> είναι η ισπανική φωνή πίσω από τις τηλεοπτικές διαφημίσεις της <strong>Trivago</strong> στην Ισπανία, συμπεριλαμβανομένων των πιο πρόσφατων καμπανιών με τον <strong>Jürgen Klopp</strong>.</p>""",
+        "section_videos": "Διαφημίσεις Trivago στα Ισπανικά",
+        "section_about": "Σχετικά με τη Συνεργασία με την Trivago",
+        "about_text": """<p>Η Trivago εμπιστεύεται τη φωνή του Guillermo A. Brazález για να μεταδώσει το μήνυμά της στο ισπανικό κοινό.</p>""",
+        "cta_text": "Ψάχνετε επαγγελματική φωνή για το brand σας;",
+        "faq": [
+            {"q": "Ποιος είναι η ισπανική φωνή της Trivago;", "a": "Ο Guillermo A. Brazález είναι ο επαγγελματίας εκφωνητής πίσω από τις διαφημίσεις της Trivago στην Ισπανία."},
+        ],
+    },
+    "zh": {
+        "title": "Trivago西班牙语配音 — Guillermo A. Brazález",
+        "meta_title": "Trivago西班牙语配音 | Guillermo A. Brazález",
+        "meta_desc": "Guillermo A. Brazález是Trivago在西班牙电视广告的西班牙语配音演员。",
+        "h1": "Trivago的西班牙语之声",
+        "intro": """<p><strong>Guillermo A. Brazález</strong>是<strong>Trivago</strong>在西班牙电视广告中的西班牙语配音演员，包括与<strong>Jürgen Klopp</strong>合作的最新广告活动。</p>""",
+        "section_videos": "Trivago西班牙语广告",
+        "section_about": "关于与Trivago的合作",
+        "about_text": """<p>Trivago信赖Guillermo A. Brazález的声音向西班牙观众传递品牌信息。</p>""",
+        "cta_text": "为您的品牌寻找专业配音？",
+        "faq": [
+            {"q": "谁是Trivago的西班牙语配音演员？", "a": "Guillermo A. Brazález是为Trivago在西班牙的电视广告配音的专业西班牙语配音演员。"},
+        ],
+    },
+    "ru": {
+        "title": "Испанский Голос Trivago — Guillermo A. Brazález",
+        "meta_title": "Испанский Голос Trivago | Guillermo A. Brazález",
+        "meta_desc": "Guillermo A. Brazález — испанский голос рекламных роликов Trivago в Испании.",
+        "h1": "Испанский Голос Trivago",
+        "intro": """<p><strong>Guillermo A. Brazález</strong> — это испанский голос телевизионных рекламных роликов <strong>Trivago</strong> в Испании, включая последние кампании с <strong>Юргеном Клоппом</strong>.</p>""",
+        "section_videos": "Реклама Trivago на Испанском",
+        "section_about": "О Сотрудничестве с Trivago",
+        "about_text": """<p>Trivago доверяет голосу Guillermo A. Brazález для передачи своего послания испанской аудитории.</p>""",
+        "cta_text": "Ищете профессиональный голос для вашего бренда?",
+        "faq": [
+            {"q": "Кто озвучивает рекламу Trivago на испанском?", "a": "Guillermo A. Brazález — профессиональный испанский диктор, озвучивающий рекламные ролики Trivago в Испании."},
+        ],
+    },
 }
 
 SOUNDCLOUD_EMBED = '<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Fusers%2F356830688&show_artwork=true&maxwidth=800&maxheight=800" loading="lazy"></iframe>'
@@ -2333,6 +2548,10 @@ def nav_dropdown(lang, from_depth=0):
         href = f"{root}/{lang_prefix}/{slug['voice_actor']}/{slug[key]}/index.html"
         items.append(f'<a href="{href}">{services[key]["title"]}</a>')
     
+    # Trivago dedicated page link
+    trivago_href = f"{root}/{lang_prefix}/{slug['voice_actor']}/{slug['trivago']}/index.html"
+    items.append(f'<a href="{trivago_href}">Trivago</a>')
+    
     return "\n            ".join(items)
 
 
@@ -4376,7 +4595,7 @@ def generate_sitemap():
         # Voice actor main
         urls.append(get_page_url(lang, "voice_actor"))
         # Service pages
-        for svc in ["spots", "documentaries", "radio", "corporate", "audiobooks", "studio"]:
+        for svc in ["spots", "documentaries", "radio", "corporate", "audiobooks", "studio", "trivago"]:
             urls.append(get_page_url(lang, "voice_actor", svc))
         # Composer
         urls.append(get_page_url(lang, "composer"))
@@ -4452,6 +4671,140 @@ def write_file(path, content):
     print(f"  ✓ {path}")
 
 
+def build_trivago_page(lang):
+    """Build the dedicated Trivago page."""
+    import json as _json
+    c = CONTENT[lang]
+    tc = TRIVAGO_CONTENT[lang]
+    slug = SLUGS[lang]
+    depth = 3
+    lang_prefix = "es" if lang == "es" else LANGUAGES[lang]["dir"]
+    
+    canonical = get_page_url(lang, "voice_actor", "trivago")
+    
+    # YouTube embeds
+    videos_html = '<div class="video-grid">'
+    for yt_id in TRIVAGO_YOUTUBE:
+        videos_html += f'''
+        <div class="video-embed">
+          <iframe width="100%" height="315" 
+            src="https://www.youtube.com/embed/{yt_id}" 
+            title="Trivago Spain Commercial" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen loading="lazy"></iframe>
+        </div>'''
+    videos_html += '</div>'
+    
+    # FAQ section
+    faqs = tc.get("faq", [])
+    faq_html = ""
+    if faqs:
+        faq_html = '<div class="faq-list">'
+        for faq in faqs:
+            faq_html += f'''
+            <details class="faq-item">
+              <summary>{faq["q"]}</summary>
+              <p>{faq["a"]}</p>
+            </details>'''
+        faq_html += '</div>'
+    
+    # FAQPage + VideoObject schema
+    faq_schema_obj = {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": faq["q"],
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": faq["a"]
+                }
+            } for faq in faqs
+        ]
+    }
+    
+    video_schema_list = []
+    yt_titles = [
+        "Trivago España Corto 2025 — Jürgen Klopp",
+        "Trivago Versión Doblada 2025",
+        "Campaña Trivago 2024 TV Nacional España",
+    ]
+    for i, yt_id in enumerate(TRIVAGO_YOUTUBE):
+        video_schema_list.append({
+            "@context": "https://schema.org",
+            "@type": "VideoObject",
+            "name": yt_titles[i] if i < len(yt_titles) else f"Trivago Spain Commercial {i+1}",
+            "description": tc["meta_desc"],
+            "thumbnailUrl": f"https://img.youtube.com/vi/{yt_id}/maxresdefault.jpg",
+            "embedUrl": f"https://www.youtube.com/embed/{yt_id}",
+            "uploadDate": "2025-01-01",
+        })
+    
+    extra_schema = [_json.dumps(faq_schema_obj, ensure_ascii=False)]
+    for vs in video_schema_list:
+        extra_schema.append(_json.dumps(vs, ensure_ascii=False))
+    
+    # Contact link
+    root = "../../.."
+    contact_href = f"{root}/{lang_prefix}/{slug['contact']}/index.html"
+    
+    body = f'''
+    <section class="page-hero">
+      <div class="container narrow">
+        <p class="hero-eyebrow">Guillermo A. Brazález × Trivago</p>
+        <h1 class="animate-words">{tc["h1"]}</h1>
+      </div>
+    </section>
+    <section class="section">
+      <div class="container narrow">
+        {tc["intro"]}
+      </div>
+    </section>
+    <section class="section">
+      <div class="container">
+        <h2 class="animate-words">{tc["section_videos"]}</h2>
+        {videos_html}
+      </div>
+    </section>
+    <section class="section">
+      <div class="container narrow">
+        <h2 class="animate-words">{tc["section_about"]}</h2>
+        {tc["about_text"]}
+      </div>
+    </section>'''
+    
+    if faq_html:
+        faq_heading = {"es": "Preguntas Frecuentes", "en": "FAQ", "fr": "FAQ", "de": "Häufige Fragen", "it": "FAQ", "pt": "Perguntas Frequentes", "sv": "Vanliga Frågor", "no": "Ofte Stilte Spørsmål", "da": "Ofte Stillede Spørgsmål", "nl": "Veelgestelde Vragen", "el": "Συχνές Ερωτήσεις", "zh": "常见问题", "ru": "Часто Задаваемые Вопросы"}
+        body += f'''
+    <section class="section">
+      <div class="container narrow">
+        <h2 class="animate-words">{faq_heading.get(lang, "FAQ")}</h2>
+        {faq_html}
+      </div>
+    </section>'''
+    
+    body += f'''
+    <section class="section cta-section">
+      <div class="container narrow" style="text-align:center;">
+        <h2>{tc["cta_text"]}</h2>
+        <a href="{contact_href}" class="btn btn-primary">{c["cta_contact"]}</a>
+      </div>
+    </section>'''
+    
+    return build_page(
+        lang=lang,
+        title=tc["meta_title"],
+        meta_desc=tc["meta_desc"],
+        canonical=canonical,
+        body_content=body,
+        page_key="trivago",
+        from_depth=depth,
+        extra_schema=extra_schema,
+    )
+
+
 def main():
     print("═══════════════════════════════════════════")
     print("  spanishvoiceover.net — Static Site Generator")
@@ -4493,6 +4846,11 @@ def main():
             svc_dir = va_dir / slug[svc]
             write_file(str(svc_dir / "index.html"), build_service_page(lang, svc))
             file_count += 1
+        
+        # Trivago dedicated page
+        trivago_dir = va_dir / slug['trivago']
+        write_file(str(trivago_dir / "index.html"), build_trivago_page(lang))
+        file_count += 1
         
         # Composer
         comp_dir = BASE_DIR / lang_prefix / slug['composer']

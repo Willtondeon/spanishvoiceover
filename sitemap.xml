@@ -41,6 +41,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://spanishvoiceover.net/es/locutor/trivago/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://spanishvoiceover.net/es/compositor/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -87,6 +92,11 @@
   </url>
   <url>
     <loc>https://spanishvoiceover.net/en/voice-actor/studio/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://spanishvoiceover.net/en/voice-actor/trivago/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -141,6 +151,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://spanishvoiceover.net/fr/comédien-vocal/trivago/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://spanishvoiceover.net/fr/compositeur/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -187,6 +202,11 @@
   </url>
   <url>
     <loc>https://spanishvoiceover.net/de/sprecher/studio/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://spanishvoiceover.net/de/sprecher/trivago/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -241,6 +261,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://spanishvoiceover.net/it/doppiatore/trivago/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://spanishvoiceover.net/it/compositore/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -287,6 +312,11 @@
   </url>
   <url>
     <loc>https://spanishvoiceover.net/pt/locutor/estudio/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://spanishvoiceover.net/pt/locutor/trivago/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -341,6 +371,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://spanishvoiceover.net/sv/rostskadespelare/trivago/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://spanishvoiceover.net/sv/kompositoer/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -387,6 +422,11 @@
   </url>
   <url>
     <loc>https://spanishvoiceover.net/no/stemme/studio/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://spanishvoiceover.net/no/stemme/trivago/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -441,6 +481,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://spanishvoiceover.net/da/stemme/trivago/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://spanishvoiceover.net/da/komponist/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -487,6 +532,11 @@
   </url>
   <url>
     <loc>https://spanishvoiceover.net/nl/stemacteur/studio/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://spanishvoiceover.net/nl/stemacteur/trivago/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -541,6 +591,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://spanishvoiceover.net/el/ekfonitis/trivago/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://spanishvoiceover.net/el/synthetes/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -591,6 +646,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://spanishvoiceover.net/zh/peiyin/trivago/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://spanishvoiceover.net/zh/zuoqu/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -637,6 +697,11 @@
   </url>
   <url>
     <loc>https://spanishvoiceover.net/ru/diktor/studiya/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://spanishvoiceover.net/ru/diktor/trivago/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
