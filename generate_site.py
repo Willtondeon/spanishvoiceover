@@ -388,6 +388,7 @@ CONTENT = {
         "site_title": "Guillermo A. Brazález — Locutor Profesional Español",
         "hero_tagline": "La Voz Mueve el Mundo",
         "hero_subtitle": "Locutor profesional español · Voz castellana con más de 20 años de experiencia",
+        "hero_badge": "Voz en español de los spots de Trivago",
         "homepage_intro": """
             <p>Guillermo A. Brazález es un locutor profesional español con sede en España, especializado en español castellano de primera calidad. Con más de dos décadas de experiencia en la industria de la voz, Guillermo ha prestado su voz castellana a cientos de proyectos internacionales para las marcas más reconocidas del mundo.</p>
             <p>Su voz en español destaca por su calidez, autoridad y versatilidad. Desde spots publicitarios para televisión hasta documentales de naturaleza, pasando por vídeo corporativo, locución de radio y audiolibros, su voz española conecta con audiencias de habla hispana en todo el mundo. Ha colaborado con productoras de España y Latinoamérica, ofreciendo siempre una pronunciación castellana impecable.</p>
@@ -535,6 +536,7 @@ CONTENT = {
         "site_title": "Guillermo A. Brazález — Professional Spanish Voice-Over Artist",
         "hero_tagline": "The Voice Moves the World",
         "hero_subtitle": "Professional Spanish voice-over artist · Castilian Spanish voice with 20+ years of experience",
+        "hero_badge": "The Spanish voice of Trivago commercials",
         "homepage_intro": """
             <p>Guillermo A. Brazález is a professional Spanish voice-over artist based in Spain, specializing in premium Castilian Spanish narration. With over two decades of experience in the voice-over industry, Guillermo has lent his authentic Spanish voice to hundreds of international projects for the world's most recognized brands.</p>
             <p>His Spanish voice stands out for its warmth, authority, and versatility. From television commercials to nature documentaries, corporate videos, radio spots, and audiobooks, his Castilian Spanish voice connects with Spanish-speaking audiences worldwide. He has collaborated with production companies across Spain and Latin America, always delivering impeccable Castilian Spanish pronunciation.</p>
@@ -681,6 +683,7 @@ CONTENT = {
         "site_title": "Guillermo A. Brazález — Comédien Vocal Espagnol Professionnel",
         "hero_tagline": "La Voix Fait Bouger le Monde",
         "hero_subtitle": "Comédien vocal espagnol professionnel · Voix espagnole castillane avec plus de 20 ans d'expérience",
+        "hero_badge": "La voix espagnole des spots Trivago",
         "homepage_intro": """
             <p>Guillermo A. Brazález est un comédien vocal espagnol professionnel basé en Espagne, spécialisé dans la narration en espagnol castillan de première qualité. Avec plus de deux décennies d'expérience dans l'industrie du doublage, Guillermo a prêté sa voix espagnole authentique à des centaines de projets internationaux pour les marques les plus reconnues au monde.</p>
             <p>Sa voix espagnole se distingue par sa chaleur, son autorité et sa polyvalence. Des spots publicitaires télévisés aux documentaires sur la nature, en passant par les vidéos d'entreprise, les spots radio et les livres audio, sa voix en espagnol castillan connecte avec les audiences hispanophones du monde entier. Il a collaboré avec des sociétés de production en Espagne et en Amérique latine, offrant toujours une prononciation espagnole castillane impeccable.</p>
@@ -798,6 +801,7 @@ CONTENT = {
         "site_title": "Guillermo A. Brazález — Professioneller Spanischer Sprecher",
         "hero_tagline": "Die Stimme Bewegt die Welt",
         "hero_subtitle": "Professioneller spanischer Sprecher · Kastilische spanische Stimme mit über 20 Jahren Erfahrung",
+        "hero_badge": "Die spanische Stimme der Trivago-Werbespots",
         "homepage_intro": """
             <p>Guillermo A. Brazález ist ein professioneller spanischer Sprecher mit Sitz in Spanien, spezialisiert auf erstklassige kastilisch-spanische Erzählung. Mit über zwei Jahrzehnten Erfahrung in der Sprecherbranche hat Guillermo seine authentische spanische Stimme Hunderten internationaler Projekte für die bekanntesten Marken der Welt geliehen.</p>
             <p>Seine spanische Stimme zeichnet sich durch Wärme, Autorität und Vielseitigkeit aus. Von Fernsehwerbespots bis hin zu Naturdokumentationen, Unternehmensvideos, Radiospots und Hörbüchern — seine kastilisch-spanische Stimme verbindet sich mit spanischsprachigen Zielgruppen weltweit. Er hat mit Produktionsfirmen in ganz Spanien und Lateinamerika zusammengearbeitet und dabei stets eine makellose kastilisch-spanische Aussprache geliefert.</p>
@@ -915,6 +919,7 @@ CONTENT = {
         "site_title": "Guillermo A. Brazález — Doppiatore Spagnolo Professionista",
         "hero_tagline": "La Voce Muove il Mondo",
         "hero_subtitle": "Doppiatore spagnolo professionista · Voce spagnola castigliana con oltre 20 anni di esperienza",
+        "hero_badge": "La voce spagnola degli spot Trivago",
         "homepage_intro": """
             <p>Guillermo A. Brazález è un doppiatore spagnolo professionista con sede in Spagna, specializzato nella narrazione in spagnolo castigliano di prima qualità. Con oltre due decenni di esperienza nel settore del doppiaggio, Guillermo ha prestato la sua autentica voce spagnola a centinaia di progetti internazionali per i marchi più riconosciuti al mondo.</p>
             <p>La sua voce spagnola si distingue per calore, autorità e versatilità. Dagli spot pubblicitari ai documentari sulla natura, passando per video aziendali, spot radiofonici e audiolibri, la sua voce in spagnolo castigliano connette con il pubblico di lingua spagnola in tutto il mondo. Ha collaborato con società di produzione in Spagna e America Latina, offrendo sempre una pronuncia spagnola castigliana impeccabile.</p>
@@ -1032,6 +1037,7 @@ CONTENT = {
         "site_title": "Guillermo A. Brazález — Locutor Espanhol Profissional",
         "hero_tagline": "A Voz Move o Mundo",
         "hero_subtitle": "Locutor espanhol profissional · Voz espanhola castelhana com mais de 20 anos de experiência",
+        "hero_badge": "A voz espanhola dos anúncios da Trivago",
         "homepage_intro": """
             <p>Guillermo A. Brazález é um locutor espanhol profissional sediado em Espanha, especializado em narração em espanhol castelhano de primeira qualidade. Com mais de duas décadas de experiência na indústria de locução, Guillermo emprestou a sua autêntica voz espanhola a centenas de projetos internacionais para as marcas mais reconhecidas do mundo.</p>
             <p>A sua voz espanhola destaca-se pela calidez, autoridade e versatilidade. Desde spots publicitários para televisão até documentários de natureza, passando por vídeos corporativos, spots de rádio e audiolivros, a sua voz em espanhol castelhano conecta com audiências de língua espanhola em todo o mundo. Colaborou com produtoras de Espanha e América Latina, oferecendo sempre uma pronúncia espanhola castelhana impecável.</p>
@@ -1149,6 +1155,7 @@ CONTENT = {
         "site_title": "Guillermo A. Brazález — Professionell Spansk Röstskådespelare",
         "hero_tagline": "Rösten Rör Världen",
         "hero_subtitle": "Professionell spansk röstskådespelare · Kastiliansk spanska med över 20 års erfarenhet",
+        "hero_badge": "Den spanska rösten i Trivagos reklamfilmer",
         "homepage_intro": """
             <p>Guillermo A. Brazález är en professionell spansk röstskådespelare baserad i Spanien, specialiserad på förstklassig kastiliansk spanska. Med över två decenniers erfarenhet inom röstbranschen har Guillermo lånat sin autentiska spanska röst till hundratals internationella projekt för världens mest kända varumärken.</p>
             <p>Hans spanska röst utmärker sig genom värme, auktoritet och mångsidighet. Från reklamfilmer för tv till naturdokumentärer, företagsvideo, radiospots och ljudböcker — hans kastilianska spanska röst når spansktalande publik över hela världen. Han har samarbetat med produktionsbolag i Spanien och Latinamerika och alltid levererat en oklanderlig spansk uttalsstandard.</p>
@@ -1266,6 +1273,7 @@ CONTENT = {
         "site_title": "Guillermo A. Brazález — Profesjonell Spansk Stemmeskuespiller",
         "hero_tagline": "Stemmen Beveger Verden",
         "hero_subtitle": "Profesjonell spansk stemmeskuespiller · Kastiliansk spansk stemme med over 20 års erfaring",
+        "hero_badge": "Den spanske stemmen i Trivagos reklamefilmer",
         "homepage_intro": """
             <p>Guillermo A. Brazález er en profesjonell spansk stemmeskuespiller basert i Spania, spesialisert på førsteklasses kastiliansk spansk. Med over to tiårs erfaring i stemmebransjen har Guillermo lånt sin autentiske spanske stemme til hundrevis av internasjonale prosjekter for verdens mest kjente merkevarer.</p>
             <p>Hans spanske stemme utmerker seg med varme, autoritet og allsidighet. Fra reklamfilmer for TV til naturdokumentarer, bedriftsvideoer, radiospots og lydbøker — hans kastilianske spanske stemme når spansktalende publikum over hele verden. Han har samarbeidet med produksjonsselskaper i Spania og Latin-Amerika, og alltid levert en uklanderlig spansk uttalestandard.</p>
@@ -1383,6 +1391,7 @@ CONTENT = {
         "site_title": "Guillermo A. Brazález — Professionel Spansk Stemmeskuespiller",
         "hero_tagline": "Stemmen Bevæger Verden",
         "hero_subtitle": "Professionel spansk stemmeskuespiller · Kastiliansk spansk stemme med over 20 års erfaring",
+        "hero_badge": "Den spanske stemme i Trivagos reklamefilm",
         "homepage_intro": """
             <p>Guillermo A. Brazález er en professionel spansk stemmeskuespiller baseret i Spanien, specialiseret i førsteklasses kastiliansk spansk. Med over to årtiers erfaring har Guillermo lånt sin autentiske spanske stemme til hundredvis af internationale projekter for verdens mest anerkendte mærker.</p>
             <p>Hans spanske stemme udmærker sig ved varme, autoritet og alsidighed. Fra reklamefilm til naturdokumentarer, virksomhedsvideoer, radiospots og lydbøger — hans kastilianske spanske stemme når spansktalende publikum over hele verden. Han har samarbejdet med produktionsselskaber i Spanien og Latinamerika.</p>
@@ -1500,6 +1509,7 @@ CONTENT = {
         "site_title": "Guillermo A. Brazález — Professionele Spaanse Stemacteur",
         "hero_tagline": "De Stem Beweegt de Wereld",
         "hero_subtitle": "Professionele Spaanse stemacteur · Castiliaans Spaanse stem met meer dan 20 jaar ervaring",
+        "hero_badge": "De Spaanse stem van de Trivago-reclames",
         "homepage_intro": """
             <p>Guillermo A. Brazález is een professionele Spaanse stemacteur gevestigd in Spanje, gespecialiseerd in eersteklas Castiliaans Spaans. Met meer dan twee decennia ervaring in de stembranch heeft Guillermo zijn authentieke Spaanse stem geleend aan honderden internationale projecten voor 's werelds meest gerenommeerde merken.</p>
             <p>Zijn Spaanse stem onderscheidt zich door warmte, autoriteit en veelzijdigheid. Van reclamefilms voor televisie tot natuurdocumentaires, bedrijfsvideo's, radiospots en luisterboeken — zijn Castiliaans Spaanse stem bereikt Spaanstalig publiek over de hele wereld. Hij heeft samengewerkt met productiebedrijven in Spanje en Latijns-Amerika.</p>
@@ -1617,6 +1627,7 @@ CONTENT = {
         "site_title": "Guillermo A. Brazález — Επαγγελματίας Ισπανός Εκφωνητής",
         "hero_tagline": "Η Φωνή Κινεί τον Κόσμο",
         "hero_subtitle": "Επαγγελματίας ισπανός εκφωνητής · Καστιλιάνικη ισπανική φωνή με πάνω από 20 χρόνια εμπειρίας",
+        "hero_badge": "Η ισπανική φωνή των διαφημίσεων της Trivago",
         "homepage_intro": """
             <p>Ο Guillermo A. Brazález είναι ένας επαγγελματίας ισπανός εκφωνητής με έδρα την Ισπανία, ειδικευμένος σε πρώτης ποιότητας καστιλιάνικα ισπανικά. Με πάνω από δύο δεκαετίες εμπειρίας στον κλάδο της εκφώνησης, ο Guillermo έχει δανείσει την αυθεντική ισπανική του φωνή σε εκατοντάδες διεθνή projects για τα πιο αναγνωρισμένα brands παγκοσμίως.</p>
             <p>Η ισπανική του φωνή ξεχωρίζει για τη ζεστασιά, την εξουσία και την ευελιξία της. Από τηλεοπτικά διαφημιστικά σποτ μέχρι ντοκιμαντέρ φύσης, εταιρικά βίντεο, ραδιοφωνικά σποτ και ηχητικά βιβλία — η καστιλιάνικη ισπανική φωνή του φτάνει σε ισπανόφωνο κοινό σε ολόκληρο τον κόσμο. Έχει συνεργαστεί με εταιρείες παραγωγής στην Ισπανία και τη Λατινική Αμερική.</p>
@@ -1734,6 +1745,7 @@ CONTENT = {
         "site_title": "Guillermo A. Brazález — 专业西班牙语配音演员",
         "hero_tagline": "声音撼动世界",
         "hero_subtitle": "专业西班牙语配音演员 · 卡斯蒂利亚西班牙语配音，超过20年从业经验",
+        "hero_badge": "Trivago广告的西班牙语配音",
         "homepage_intro": """
             <p>Guillermo A. Brazález是一位驻西班牙的专业西班牙语配音演员，专注于一流的卡斯蒂利亚西班牙语配音。凭借超过二十年的配音行业经验，Guillermo已将其正宗的西班牙语声音献给了数百个国际项目，服务于全球最知名的品牌。</p>
             <p>他的西班牙语声音以温暖、权威和多功能性著称。从电视广告到自然纪录片，从企业视频到广播广告和有声书——他的卡斯蒂利亚西班牙语声音触达全球西班牙语受众。他曾与西班牙和拉丁美洲的制作公司合作，始终提供无可挑剔的西班牙语发音标准。</p>
@@ -1851,6 +1863,7 @@ CONTENT = {
         "site_title": "Guillermo A. Brazález — Профессиональный Испанский Диктор",
         "hero_tagline": "Голос Движет Миром",
         "hero_subtitle": "Профессиональный испанский диктор · Кастильский испанский голос с более чем 20-летним опытом",
+        "hero_badge": "Испанский голос рекламных роликов Trivago",
         "homepage_intro": """
             <p>Guillermo A. Brazález — профессиональный испанский диктор, базирующийся в Испании, специализирующийся на первоклассном кастильском испанском. С более чем двадцатилетним опытом в индустрии озвучивания, Guillermo предоставил свой аутентичный испанский голос для сотен международных проектов крупнейших мировых брендов.</p>
             <p>Его испанский голос выделяется теплотой, авторитетностью и универсальностью. От телевизионной рекламы до документальных фильмов о природе, корпоративных видео, радиороликов и аудиокниг — его кастильский испанский голос достигает испаноязычной аудитории по всему миру. Он сотрудничал с продюсерскими компаниями Испании и Латинской Америки.</p>
@@ -2073,11 +2086,27 @@ def schema_person(lang):
         "zh": "专业西班牙语配音演员",
         "ru": "Профессиональный Испанский Диктор",
     }
+    descriptions = {
+        "es": "Guillermo A. Brazález es locutor profesional español, voz en español de los spots de Trivago. Más de 20 años de experiencia en locución en castellano.",
+        "en": "Guillermo A. Brazález is a professional Spanish voice-over artist, the Spanish voice of Trivago commercials. 20+ years of experience in Castilian Spanish voice-over.",
+        "fr": "Guillermo A. Brazález est comédien vocal espagnol professionnel, la voix espagnole des spots Trivago. Plus de 20 ans d'expérience.",
+        "de": "Guillermo A. Brazález ist professioneller spanischer Sprecher, die spanische Stimme der Trivago-Werbespots. Über 20 Jahre Erfahrung.",
+        "it": "Guillermo A. Brazález è doppiatore spagnolo professionista, la voce spagnola degli spot Trivago. Oltre 20 anni di esperienza.",
+        "pt": "Guillermo A. Brazález é locutor espanhol profissional, a voz espanhola dos anúncios da Trivago. Mais de 20 anos de experiência.",
+        "sv": "Guillermo A. Brazález är professionell spansk röstskådespelare, den spanska rösten i Trivagos reklamfilmer. Över 20 års erfarenhet.",
+        "no": "Guillermo A. Brazález er profesjonell spansk stemmeskuespiller, den spanske stemmen i Trivagos reklamefilmer. Over 20 års erfaring.",
+        "da": "Guillermo A. Brazález er professionel spansk stemmeskuespiller, den spanske stemme i Trivagos reklamefilm. Over 20 års erfaring.",
+        "nl": "Guillermo A. Brazález is professionele Spaanse stemacteur, de Spaanse stem van de Trivago-reclames. Meer dan 20 jaar ervaring.",
+        "el": "Ο Guillermo A. Brazález είναι επαγγελματίας ισπανός εκφωνητής, η ισπανική φωνή των διαφημίσεων της Trivago.",
+        "zh": "Guillermo A. Brazález是专业西班牙语配音演员，Trivago广告的西班牙语配音。超过20年从业经验。",
+        "ru": "Guillermo A. Brazález — профессиональный испанский диктор, испанский голос рекламных роликов Trivago. Более 20 лет опыта.",
+    }
     return json.dumps({
         "@context": "https://schema.org",
         "@type": "Person",
         "name": "Guillermo A. Brazález",
         "jobTitle": job_titles[lang],
+        "description": descriptions[lang],
         "url": SITE_URL,
         "telephone": "+34606350350",
         "email": "info@guillermobrazalez.es",
@@ -2085,6 +2114,7 @@ def schema_person(lang):
             "@type": "PostalAddress",
             "addressCountry": "ES"
         },
+        "knowsAbout": ["Voice-over", "Spanish voice acting", "Trivago commercials", "TV advertising", "Documentary narration"],
         "sameAs": [
             "https://wa.me/34606350350"
         ]
@@ -2536,6 +2566,7 @@ def build_homepage(lang):
         <p class="hero-eyebrow">Guillermo A. Brazález</p>
         <h1>{c["hero_tagline"]}</h1>
         <p class="hero-subtitle">{c["hero_subtitle"]}</p>
+        <p class="hero-badge"><span class="hero-badge-icon">▶</span> {c["hero_badge"]}</p>
         <div class="hero-ctas">
           <a href="{va_href}" class="btn btn-primary">{c["cta_listen"]}</a>
           <a href="{contact_href}" class="btn btn-outline">{c["cta_contact"]}</a>
@@ -3373,8 +3404,30 @@ a, button, [role='button'], [role='link'], input, textarea, select {
 .hero-subtitle {
   font-size: var(--text-lg);
   color: var(--color-text-muted);
-  margin-bottom: var(--space-8);
+  margin-bottom: var(--space-4);
   max-width: 540px;
+}
+
+.hero-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5em;
+  font-family: var(--font-body);
+  font-size: var(--text-sm);
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--color-primary);
+  background: rgba(196, 167, 125, 0.1);
+  border: 1px solid rgba(196, 167, 125, 0.25);
+  border-radius: 100px;
+  padding: 0.45em 1.2em;
+  margin-bottom: var(--space-8);
+}
+
+.hero-badge-icon {
+  font-size: 0.6em;
+  opacity: 0.7;
 }
 
 .hero-ctas {

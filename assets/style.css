@@ -489,8 +489,30 @@ a, button, [role='button'], [role='link'], input, textarea, select {
 .hero-subtitle {
   font-size: var(--text-lg);
   color: var(--color-text-muted);
-  margin-bottom: var(--space-8);
+  margin-bottom: var(--space-4);
   max-width: 540px;
+}
+
+.hero-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5em;
+  font-family: var(--font-body);
+  font-size: var(--text-sm);
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--color-primary);
+  background: rgba(196, 167, 125, 0.1);
+  border: 1px solid rgba(196, 167, 125, 0.25);
+  border-radius: 100px;
+  padding: 0.45em 1.2em;
+  margin-bottom: var(--space-8);
+}
+
+.hero-badge-icon {
+  font-size: 0.6em;
+  opacity: 0.7;
 }
 
 .hero-ctas {
